@@ -10,7 +10,7 @@ Losing at FPS games. I'm so bad at it. Fun fact, I'm PHP certified and got my ce
 - Kotlin
 - Javascript
 
-- Little bit CSS and HTML, back I'm more focused on backend development.
+- Little bit CSS and HTML, but I'm more focused on backend development.
 
 ## Languages I Speak
 - Almost Portuguese (Brazilian one, not the fake one from Portugal 😂)  
