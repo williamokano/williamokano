@@ -24,3 +24,6 @@ That's it.
 - [Twitter](https://twitter.com/williamokano)  
 - [My amazing website (https://okano.dev)](https://okano.dev)  
 - [Twitch](https://twitch.tv/zKatapoka)  
+
+## Whatever
+![William's github stats](https://github-readme-stats.vercel.app/api?username=williamokano) <!--&count_private=true-->
