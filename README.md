@@ -26,4 +26,4 @@ That's it.
 - [Twitch](https://twitch.tv/zKatapoka)  
 
 ## Whatever
-![William's github stats](https://github-readme-stats.vercel.app/api?username=williamokano) <!--&count_private=true-->
+![William's github stats](https://github-readme-stats.vercel.app/api?username=williamokano&count_private=true)
